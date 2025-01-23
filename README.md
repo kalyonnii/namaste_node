@@ -39,3 +39,19 @@ https://expressjs.com/
 
 //UBDER - SHEMALESS 
 https://www.uber.com/en-IN/blog/schemaless-part-one-mysql-datastore/
+
+//NPM MONGODB
+https://www.npmjs.com/package/mongodb
+
+//MONGODB API DOCS
+https://mongodb.github.io/node-mongodb-native/
+
+//MONGODB DOCUMENTATION
+https://mongodb.github.io/node-mongodb-native/6.12/
+
+//COLLECTION METHODS
+https://mongodb.github.io/node-mongodb-native/6.12/classes/Collection.html
+
+https://mongodb.github.io/node-mongodb-native/6.12/classes/Collection.html#find
+
+https://mongodb.github.io/node-mongodb-native/6.12/classes/FindCursor.html
